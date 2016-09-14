@@ -2,11 +2,12 @@
 html, body {
   height: 100%;
   width: 100%;
+
 }
 
 /* padded section */
 .pad-section {
-  padding: 50px 0;
+  padding: 10px 0;
 }
 .pad-section img {
   width: 100%;
@@ -25,6 +26,7 @@ html, body {
   font-weight: 700;
   margin: 0;
   padding: 0;
+
 }
 
 /* additional sections */
@@ -41,15 +43,16 @@ html, body {
 }
 
 #about {
-    border: 2px solid #FFFFFF;
+    border: 1px solid #FFFFFF;
   border-radius: 50%;
   display: inline-block;
-  font-size: 60px;
-  height: 390px;
+  font-size: 40px;
+  height: 380px;
   line-height: 140px;
   text-align: center;
   vertical-align: middle;
   width: 390px;
+  
   
 }
 
@@ -85,7 +88,7 @@ html, body {
 }
 
 #google_map {
-  height: 500px;
+  height: 460px;
 }
 
 footer {

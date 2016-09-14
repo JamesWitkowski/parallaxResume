@@ -29,6 +29,6 @@ $(document).ready(function (){
 
   // add information window
   var infowindow = new google.maps.InfoWindow({
-    content:  '<div class="info"><strong>This is my company</strong><br><br>My company address is here<br> Boise, Idaho 83706</div>'
+    content:  '<div class="info"><strong>This is my city</strong><br><br>My base of operations is <br> Boise, Idaho 83706</div>'
   });  
 });
