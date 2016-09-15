@@ -46,7 +46,7 @@ html, body {
     border: 1px solid #FFFFFF;
   border-radius: 50%;
   display: inline-block;
-  font-size: 40px;
+  font-size: 14px;
   height: 380px;
   line-height: 140px;
   text-align: center;
@@ -84,7 +84,7 @@ html, body {
   background-size: cover;
 }
 #information .panel {
-  opacity: 0.85;
+  opacity: 0.75;
 }
 
 #google_map {
@@ -135,4 +135,12 @@ div.panel-heading {
     -webkit-transform: translate(0px,5px);
     border-bottom: 1px solid;
 }
-
+#email {
+    font-size: 18px;
+}
+.lead {
+  font-size: 16px;
+}
+.h2, h2 {
+  font-size: 18px;
+}
