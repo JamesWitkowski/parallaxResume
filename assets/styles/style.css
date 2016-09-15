@@ -144,3 +144,9 @@ div.panel-heading {
 .h2, h2 {
   font-size: 18px;
 }
+ol, ul {
+  margin-bottom: 0px;
+}
+.row {
+  display: inline-table;
+}
