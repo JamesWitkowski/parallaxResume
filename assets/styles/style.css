@@ -31,7 +31,7 @@ html, body {
 
 /* additional sections */
 #home {
-  background: url("https://media.licdn.com/media//AAEAAQAAAAAAAAhuAAAAJGE0NGU5OWIxLWRjNTktNGYzOS1hZjJkLTQ3MDMzODFmYzYxZA.jpg") no-repeat center center fixed; 
+  background: url("/Users/jameswitkowski/source/parallaxMobileVotingTrailer/assets/MVTAdaCoCourthouse.jpg") no-repeat center center fixed; 
   display: table;
   height: 100%;
   position: relative;
